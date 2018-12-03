@@ -25,5 +25,7 @@ We used AutoLayout using SnapKit to create the bounds for each of our views. We 
 Since Confessions is a twist on traditional social media applications, backend support for the app had to include a database to store posts, comments, and users. A lot of the backend was borrowed from P5, which had routes for posting posts, posting comments, liking posts, and getting posts and comments.
 
 However, we made modifications to support some of the nuances of Confessions, which includes anonymous users, showing only posts made in area vicinity, and deletion of posts after 24 hours of posting. We modified the backend by adding longitude and latitude fields to the posts and adding a route that retrieves only posts made within a 5000 meter radius of the user's location. We added timestamps to each post so that after 24 hours, they will no longer be displayed in the app. We also added user authentication that assigns anonymous usernames to each user to protect their privacy.
-# Note:
-Since we initially designed the app, we decided not to use Google Sign In. We have also slightly changed the design of the sign in and sign up views so that it is can be more easily navigated by the user.
+# Notes:
+Since we initially designed the app, we decided not to use Google Sign In. We changed the design a little including the sign in and sign up views as well as adding a new view for writing a post. 
+
+Due to time constraints, we were unable to make a lot of our app work the way we had hoped. We had planned for the log in and sign up to work but we were unable to make that functional. We also had trouble making the table view of the comments show up when a post was clicked on. We were also unable to update the number of likes and post that onto the server. One small bug we have is when logout is clicked, the tab bar still shows and you can go back and view the feed again. We were unable to fix this bug.
