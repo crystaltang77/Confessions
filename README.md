@@ -4,6 +4,9 @@ Cornell’s anonymous confessions sharing app.
 ## Links: 
 https://github.com/lucyxubroad/confessions-ios-backend
 ## Initial App Design:
+![](Screenshots%20of%20Design/signin.png)
+![](Screenshots%20of%20Design/signup.png)
+![](Screenshots%20of%20Design/mainfeed.png)
 ![](Screenshots%20of%20Design/detailedpostview.png)
 ## Screenshots of App: 
 ## Purpose: 
