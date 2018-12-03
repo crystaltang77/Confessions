@@ -4,6 +4,7 @@ Cornell’s anonymous confessions sharing app.
 ## Links: 
 https://github.com/lucyxubroad/confessions-ios-backend
 ## Initial App Design:
+![](Screenshots%20of%20Design/detailedpostview.png)
 ## Screenshots of App: 
 ## Purpose: 
 Our app is a social media app with the purpose of allowing the users to anonymously post the feelings and thoughts. The first view when the app is opened is the sign in/sign up screen. We require each user to sign in/sign up so that we can keep track of the different users. After you sign in, you will be shown the main feed where you can make your own post (you can also make a new post on the post tab) and see other posts that were made surrounding your location. You can like a post or comment on the post. If you press the comment button, you will be taken to a different view where you can see all the comments previously made and comment yourself. On the tab bar, the post tab gives you another way to make a post. You will also find the sign out tab where you can sign out of the tab.
